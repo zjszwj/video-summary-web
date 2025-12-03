@@ -1,5 +1,5 @@
 streamlit==1.35.0
-yt-dlp==2024.4.9
+yt-dlp==2023.12.30  # 换用更稳定的旧版本（避免新版本与Cloud环境冲突）
 whisper==1.1.10
 moviepy==1.0.3
 torch==2.2.1
