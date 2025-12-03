@@ -1,8 +1,0 @@
-# 核心依赖（必须包含，按顺序复制）
-streamlit==1.35.0
-yt-dlp==2024.4.9  # 关键：解决"找不到yt_dlp"的错误
-whisper==1.1.10
-moviepy==1.0.3
-torch==2.2.1
-openai==1.12.0
-python-dotenv==1.0.0
